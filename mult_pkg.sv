@@ -1,7 +1,7 @@
 package mult_pkg;
 
  ////// 
-// Please consider this function a black box. DO NOT try to copy any part of this function in your code. 
+// REFERENCE MULTIPLIER  
 ////// 
 
 function [31:0] multiplication (string round, logic [31:0] a, logic [31:0] b);
