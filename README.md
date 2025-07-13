@@ -59,15 +59,6 @@ Developed as part of the **Low-Level Digital HW Systems II** course at **Aristot
 ```
 
 ---
-
-## 📊 Results
-
-- All modules passed randomized and corner-case tests.
-- Assertions confirmed correctness of status flags and outputs.
-- Full waveform validation using Questa simulation tool.
-
----
-
 ## ✍️ Author
 
 **Panos Koutris**  
