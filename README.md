@@ -39,9 +39,11 @@ Developed as part of the **Low-Level Digital HW Systems II** course at **Aristot
 ## 📂 Project Structure
 ```
 ├── exercise1/ # Main multiplier modules
+│ ├── fp_mult_top.sv
 │ ├── fp_mult.sv
 │ ├── normalize_mult.sv
 │ ├── round_mult.sv
+| ├── round_pkg.sv.sv
 │ └── exception_mult.sv
 │
 ├── exercise2/ # Functional testbenches
