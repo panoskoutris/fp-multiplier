@@ -38,19 +38,19 @@ Developed as part of the **Low-Level Digital HW Systems II** course at **Aristot
 
 ## 📂 Project Structure
 ```
-├── exercise1/ # Main multiplier modules
+├── multiplier/ # Main multiplier modules
 │ ├── fp_mult_top.sv
 │ ├── fp_mult.sv
 │ ├── normalize_mult.sv
 │ ├── round_mult.sv
-| ├── round_pkg.sv.sv
+| ├── round_pkg.sv
 │ └── exception_mult.sv
 │
-├── exercise2/ # Functional testbenches
+├── testbenches/ # Functional testbenches
 │ ├── testbench.sv
 │ └── testbench2.sv
 │
-├── exercise3/ # SystemVerilog Assertions
+├── assertions/ # SystemVerilog Assertions
 │ ├── test_status_bits.sv
 │ └── test_status_z_combinations.sv
 │
