@@ -55,7 +55,7 @@ Developed as part of the **Low-Level Digital HW Systems II** course at **Aristot
 │ └── test_status_z_combinations.sv
 │
 ├── mult_pkg.sv # Reference multiplication function
-└── Report.pdf # Full design and verification report
+└── report.pdf # Full design and verification report
 ```
 
 ---
