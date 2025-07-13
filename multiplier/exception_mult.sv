@@ -60,7 +60,7 @@ module exception_mult (
         interp_a  = num_interp(a);
         interp_b  = num_interp(b);
 
-        // Corner cases (Table 4) 
+        // Corner cases
         if (interp_a == ZERO && interp_b == ZERO) begin
             z = {sign, z_num(ZERO)};
             zero_f = 1;
