@@ -1,4 +1,4 @@
-import round_pkg::*;  // Import the enum package
+import round_pkg::*; 
 
 module fp_mult_top (
      clk, rst, rnd, a, b, z, status
@@ -11,7 +11,7 @@ module fp_mult_top (
     input logic clk, rst; 
     
     logic [31:0] a1, b1;
-    round_mode rnd1;              // Change 1: use round_mode for internal register
+    round_mode rnd1;              
     logic [31:0] z1;
     logic [7:0] status1;
     
@@ -30,7 +30,7 @@ module fp_mult_top (
           begin
              a1 <= a;
              b1 <= b;
-             rnd1 <= round_mode'(rnd); // Change 2: Cast logic [2:0] to enum
+             rnd1 <= round_mode'(rnd); 
              z <= z1;
              status <= status1;
           end
