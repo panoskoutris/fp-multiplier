@@ -27,7 +27,7 @@ Developed as part of the **Low-Level Digital HW Systems II** course at **Aristot
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Reources Used
 
 - **SystemVerilog**
 - **Questa – Intel FPGA Edition**
