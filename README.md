@@ -10,7 +10,7 @@ Includes normalization, rounding, exception handling, full testbench, and System
 This project implements a custom hardware multiplier for IEEE-754 single-precision floating-point numbers.  
 The design is pipelined for performance and thoroughly verified through testbenches and assertions.
 
-Developed as part of the **Low-Level Digital HW Systems II** course at **Aristotle University of Thessaloniki**.
+Developed as part of the **Low-Level Digital HW Systems I** course at the **Aristotle University of Thessaloniki** (AUTH), School of Electrical & Computer Engineering.
 
 ---
 
