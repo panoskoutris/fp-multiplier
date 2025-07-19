@@ -68,5 +68,5 @@ Student at AUTh – School of Electrical & Computer Engineering
 
 ## 📎 License
 
-This project is intended for educational use. Contact me before using it commercially or in published work.
+Licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0.html).
 
