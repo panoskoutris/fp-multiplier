@@ -61,8 +61,7 @@ Developed as part of the **Low-Level Digital HW Systems II** course at the **Ari
 ---
 ## ✍️ Author
 
-**Panagiotis Koutris**  
-[pkoutris@ece.auth.gr](mailto:pkoutris@ece.auth.gr)  
+**Panagiotis Koutris**   
 Student at AUTh – School of Electrical & Computer Engineering
 
 ---
