@@ -5,7 +5,7 @@ Includes normalization, rounding, exception handling, full testbench, and System
 
 ---
 
-## 🚀 Overview
+##  Overview
 
 This project implements a custom hardware multiplier for IEEE-754 single-precision floating-point numbers.  
 The design is pipelined for performance and thoroughly verified through testbenches and assertions.
@@ -14,20 +14,20 @@ Developed as part of the **Low-Level Digital HW Systems II** course at the **Ari
 
 ---
 
-## 🧠 Key Features
+##  Key Features
 
-- ✅ 32-bit IEEE-754 compliant floating-point multiplication  
-- ⚙️ Pipelined architecture  
-- 🧮 Normalization and rounding modules  
-- 🛡️ Exception handling for special cases (NaN, Inf, Zero, Denormalized)  
-- 📈 Full functional verification via:
+-  32-bit IEEE-754 compliant floating-point multiplication  
+-  Pipelined architecture  
+-  Normalization and rounding modules  
+-  Exception handling for special cases (NaN, Inf, Zero, Denormalized)  
+-  Full functional verification via:
   - Randomized testbench
   - Corner-case testbench (144 combinations)
   - SystemVerilog Assertions (SVA)
 
 ---
 
-## 🛠️ Reources Used
+##  Reources Used
 
 - **SystemVerilog**
 - **Questa – Intel FPGA Edition**
@@ -36,7 +36,7 @@ Developed as part of the **Low-Level Digital HW Systems II** course at the **Ari
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 ```
 ├── multiplier/ # Main multiplier modules
 │ ├── fp_mult_top.sv
@@ -59,14 +59,14 @@ Developed as part of the **Low-Level Digital HW Systems II** course at the **Ari
 ```
 
 ---
-## ✍️ Author
+## Author
 
 **Panagiotis Koutris**   
 Student at AUTh – School of Electrical & Computer Engineering
 
 ---
 
-## 📎 License
+## License
 
 Licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0.html).
 
